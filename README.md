@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MackieRitz
-- 👀 I’m interested in learning about algos and DS as well as pen testing
-- 🌱 I’m currently learning Java, C and Python
-- 💞️ I’m looking to collaborate on simple projects where i can learn about its essence
+- 👀 I’m interested in learning about Cryptographic Attacks as well as Offensive Sec
+- 🌱 Skill Set:- C, Java, Python, HTML
+- 💞️ I’m looking to collaborate on simple projects since im a beginner but not for long!
 - 📫 How to reach me-->Insta @rinzler077
 
 <!---
